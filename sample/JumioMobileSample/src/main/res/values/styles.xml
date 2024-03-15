@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name="colorSecondary">@color/colorSecondary</item>
+
+		<item name="materialButtonStyle">@style/CustomButtonStyleTextColor</item>
+	</style>
+
+	<style name="CustomButtonStyleTextColor" parent="Netverify.Confirmation.MaterialButton">
+		<item name="android:textColor">@color/jumio_white</item>
+		<item name="backgroundTint">@color/jumio_color_states_button</item>
+	</style>
+
+	<style name="AppTheme.NoActionBar">
+		<item name="windowActionBar">false</item>
+		<item name="windowNoTitle">true</item>
+	</style>
+
+	<style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name="colorSecondary">@color/colorSecondary</item>
+	</style>
+
+	<style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name="colorSecondary">@color/colorSecondary</item>
+	</style>
+
+</resources>
