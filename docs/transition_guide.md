@@ -5,6 +5,9 @@ This section covers all technical changes that should be considered when updatin
 
 ⚠️&nbsp;&nbsp;When updating your SDK version, __all__ changes/updates made in in the meantime have to be taken into account and applied if necessary.   
 
+## 1.0.1
+No backward incompatible changes
+
 ## 1.0.0
 #### Dependency Updates
 * The Jumio Legacy Wrapper SDK comes with all needed dependencies defined as transitive dependencies - so all the old dependencies that were introduced by Jumio 3.9.x can be removed

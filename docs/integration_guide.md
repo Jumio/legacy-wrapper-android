@@ -45,7 +45,7 @@ Jumio’s products allow businesses to establish the genuine identity of their u
 
 ## Release Notes
 
-Please refer to our [Change Log](changelog.md) for more information. Current SDK version: **1.0.0**
+Please refer to our [Change Log](changelog.md) for more information. Current SDK version: **1.0.1**
 
 For technical changes that should be considered when updating the SDK, please read our [Transition Guide](transition_guide.md).
 
@@ -65,7 +65,7 @@ The [Sample app](../sample/JumioMobileSample/) apk size is currently around **17
 
 ```groovy
 dependencies {
-	implementation "com.jumio.android:jumiolegacywrapper:1.0.0"
+	implementation "com.jumio.android:jumiolegacywrapper:1.0.1"
 }
 ```
 

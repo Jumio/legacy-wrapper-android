@@ -29,6 +29,7 @@ The life-cycle for SDK versions consists of these phases, which are outlined bel
 * __End-of-Support__ (Phase 2) - Each SDK version reaches end of support 9 months after the release date. Issues that appear after the End-of-Support date will only be addressed in the upcoming SDK releases. Previously published releases will continue to be available via public package managers and the code will remain on GitHub. Use of an SDK that has reached End-of-Support is done at the business customers’ discretion. We recommend upgrading to the latest version.
 * __End-of-Life__ (Phase 3) - By default, our SDK will reach the end of life 24 months after the release date. The SDK may continue to work but Jumio will no longer provide support or updates. Customers will be notified at least 3 months prior to the end of life of a product should it be less than 24 months.
 
-| Version | SDK Version |     Release      |   End of Support   |    End of Life     |  
-|:-------:|:-----------:|:----------------:|:------------------:|:------------------:|
-|  1.0.0  |    4.9.0    | 21 February 2024 |  21 November 2024  |  21 February 2026  |
+| Version | SDK Version |     Release      |  End of Support  |   End of Life    |  
+|:-------:|:-----------:|:----------------:|:----------------:|:----------------:|
+|  1.0.1  |    4.9.1    |  24 April 2024   | 21 November 2024 | 21 February 2026 |
+|  1.0.0  |    4.9.0    | 21 February 2024 | 21 November 2024 | 21 February 2026 |
