@@ -5,6 +5,9 @@ This section covers all technical changes that should be considered when updatin
 
 ⚠️&nbsp;&nbsp;When updating your SDK version, __all__ changes/updates made in in the meantime have to be taken into account and applied if necessary.   
 
+## 1.0.2
+No backward incompatible changes
+
 ## 1.0.1
 No backward incompatible changes
 

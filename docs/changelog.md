@@ -16,9 +16,12 @@ All notable changes, such as SDK releases, updates and fixes, are documented in 
 For detailed technical changes please refer to our [Transition Guide](transition_guide.md).
 
 ## Support Period
-Current Jumio Legacy Wrapper SDK version: __1.0.1__
+Current Jumio Legacy Wrapper SDK version: __1.0.2__
 
 Please refer to our [SDK maintenance and support policy](maintenance_policy.md) for more information about Mobile SDK maintenance and support.
+
+## SDK Version: __1.0.2__
+![Fix] NVDocumentType.DRIVER_LICENSE and NVDocumentType.IDENTITY_CARD were mixed up for preselection
 
 ## SDK Version: __1.0.1__
 ![Fix] Fixed a rare issue that could lead to a crash when the SDK is recreated

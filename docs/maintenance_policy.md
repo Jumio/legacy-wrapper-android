@@ -31,5 +31,6 @@ The life-cycle for SDK versions consists of these phases, which are outlined bel
 
 | Version | SDK Version |     Release      |  End of Support  |   End of Life    |  
 |:-------:|:-----------:|:----------------:|:----------------:|:----------------:|
+|  1.0.2  |    4.9.1    |  24 April 2024   | 21 November 2024 | 21 February 2026 |
 |  1.0.1  |    4.9.1    |  24 April 2024   | 21 November 2024 | 21 February 2026 |
 |  1.0.0  |    4.9.0    | 21 February 2024 | 21 November 2024 | 21 February 2026 |
